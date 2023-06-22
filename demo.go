@@ -19,7 +19,7 @@ func main() {
 
 	// Astra DB configuration
 	const astra_uri = "c2a8eb6c-312a-4903-b296-0945a0b50591-us-east-1.apps.astra.datastax.com:443";
-	const bearer_token = "AstraCS:TBIwGbRWytSBEsyUBxrvstwz:717221911013217a4cf5d8944df761ead1e05f9158def21f75e86a1f4fc9796c";
+	const bearer_token = "AstraCS:...";
 
 	// Create connection with authentication
 	// For Astra DB:
